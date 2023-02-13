@@ -1,0 +1,6 @@
+train: /kaggle/working/dataset-facemask-1/Dataset/images/Train
+val: /kaggle/working/dataset-facemask-1/Dataset/images/Validation
+test: /kaggle/working/dataset-facemask-1/Dataset/images/Test
+is_coco: False
+nc: 3
+names: ['WithoutMask', 'WithMask', 'MaskWornIncorrectly']
