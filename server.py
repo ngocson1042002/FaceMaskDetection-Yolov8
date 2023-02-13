@@ -3,9 +3,7 @@ from flask_cors import CORS, cross_origin
 from flask import request, render_template
 from random import random
 
-import numpy as np
 import cv2
-import base64
 import os
 import detect
 
